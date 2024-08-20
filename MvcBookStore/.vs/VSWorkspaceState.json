@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcBookStore",
+    "\\MvcBookStore\\Models",
+    "\\MvcBookStore\\Views",
+    "\\MvcBookStore\\Views\\BookStore"
+  ],
+  "SelectedNode": "\\MvcBookStore\\Models\\BookStoreModel.cs",
+  "PreviewInSolutionExplorer": false
+}
